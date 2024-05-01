@@ -279,6 +279,7 @@
 
 }
 .panel2 li{
+    cursor:pointer;
     margin-top: 10px;
 }
 .panel3{
