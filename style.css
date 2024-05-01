@@ -26,6 +26,7 @@
     border: 1.5px solid transparent;
 }
 .border:hover{
+    cursor:pointer;
     border: 1.5px solid white;
 }
 
