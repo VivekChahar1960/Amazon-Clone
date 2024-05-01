@@ -301,6 +301,7 @@
     text-align: center;
 }
 .panel4 a{
+    cursor:pointer;
     font-size: 0.75rem;
     text-decoration: none;
     
