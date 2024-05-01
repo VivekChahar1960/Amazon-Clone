@@ -274,6 +274,7 @@
     font-weight: 700;
 }
 .panel2 ul{
+    cursor:pointer;
     list-style: none;
     margin-top: 10px;
 
