@@ -317,6 +317,9 @@
     .location,.accList,.country,.Return ,.deals{
         display: none;
     }
+    .nav-search{
+        width: 180px;
+    }
     .heroSection{
         background-image: url(cropped\ hero\ image.jpg);
         background-size: cover;
