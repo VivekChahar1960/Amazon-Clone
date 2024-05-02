@@ -313,3 +313,27 @@
     padding-top: 5px;
     font-size: 0.80rem;
 }
+@media screen and (max-width:400px) {
+    .location,.accList,.country,.Return ,.deals{
+        display: none;
+    }
+    .heroSection{
+        background-image: url(cropped\ hero\ image.jpg);
+        background-size: cover;
+    }
+    .heroInDiv{
+        height: 90px;
+        display: flex;
+        justify-content: center;
+    }
+    .box{
+        width: 80%;
+    }
+    .panel2 p{
+        font-size: 10px;
+    }
+    .panel2 ul{
+        font-size: 7px;
+    }
+
+}
