@@ -317,7 +317,14 @@
     .location,.accList,.country,.Return ,.deals{
         display: none;
     }
-    .nav-search{
+    #searchCat{
+        display: none;
+    }
+    .Search{
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+    .nav-search{    
         width: 180px;
     }
     .heroSection{
